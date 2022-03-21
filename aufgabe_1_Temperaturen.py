@@ -29,7 +29,7 @@ auswahl = int(input("Gebe mal deine Auswahl ein:\n" +
                 "(6) Umrechnung von Fahrenheit nach Kelvin\n"))
 
 original_T = float(input("Gebe mal eine Temperatur ein: "))
-
+# NUEVO COMENTARIO
 
 # Berechnung und ausgabe:
 #(1) Umrechnung von Celsius nach Kelvin
