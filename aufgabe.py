@@ -30,7 +30,7 @@ auswahl = int(input("Gebe mal deine Auswahl ein:\n" +
 
 original_T = float(input("Gebe mal eine Temperatur ein: "))
 # NUEVO COMENTARIO
-# bo
+# bo hola
 # Berechnung und ausgabe:
 #(1) Umrechnung von Celsius nach Kelvin
 if auswahl == 1:
